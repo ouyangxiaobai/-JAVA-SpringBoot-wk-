@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="codeapes-common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/lib/codeapes-common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/resources/lib/codeapes-web.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/resources/lib/commons-lang-2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
